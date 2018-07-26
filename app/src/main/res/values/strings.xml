@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="name">A.R. Rahman Songs</string>
+    <string name="name1">Arijit Singh Songs</string>
+    <string name="name2">Shreya Ghoshal Songs</string>
+    <string name="name3">Neha Kakkar Songs</string>
+</resources>
